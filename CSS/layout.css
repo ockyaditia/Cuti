@@ -1,0 +1,250 @@
+ body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background:#1f5c0d;
+}
+
+.footer {
+	margin-top:-40px;
+	margin-left:35px;
+	position:absolute;
+	width:830px;
+}
+
+.footer2 {
+	margin-top:354px;
+	margin-left:15px;
+	position:absolute;
+	width:830px;
+}
+
+.style8 {
+	font-size:8pt;
+}
+#search{
+	position:absolute;
+	margin-left:525px;
+	margin-top:20px;
+}
+#container {
+  	height:auto;
+	width:900px;
+	background:#f1c40f;
+	border:medium none;
+	margin:0 auto;
+	min-height:600px;
+	padding:0;
+	position:relative;
+	text-align:left;
+	voice-family:inherit;
+	border-style: solid;
+    border-width: 5px;
+}
+#border {
+  	height: 430px;
+	width:860px;
+	border:medium none;
+	margin:0 auto;
+	padding:0;
+	position:relative;
+	text-align:left;
+	voice-family:inherit;
+	border-style: solid;
+    border-width: 3px;
+	-moz-border-radius-bottomright: 30px;
+	border-bottom-right-radius: 30px;
+	-moz-border-radius-bottomleft: 30px;
+	border-bottom-left-radius: 30px;
+	-moz-border-radius-topright: 30px;
+	border-top-right-radius: 30px;
+	-moz-border-radius-topleft: 30px;
+	border-top-left-radius: 30px;
+}
+
+#menu {
+	background:#2ecc71;
+  	height: 23px;
+	width:830px;
+	border:medium none;
+	margin:0 auto;
+	margin-top:10px;
+	position:relative;
+	text-align:left;
+	voice-family:inherit;
+	border-style: solid;
+    border-width: 3px;
+	-moz-border-radius-bottomright: 30px;
+	border-bottom-right-radius: 30px;
+	-moz-border-radius-bottomleft: 30px;
+	border-bottom-left-radius: 30px;
+	-moz-border-radius-topright: 30px;
+	border-top-right-radius: 30px;
+	-moz-border-radius-topleft: 30px;
+	border-top-left-radius: 30px;
+}
+
+#login {
+	background:#bdc3c7;
+  	height:250px;
+	width:830px;
+	border:medium none;
+	margin:0 auto;
+	margin-top:10px;
+	position:relative;
+	text-align:left;
+	voice-family:inherit;
+	border-style: solid;
+    border-width: 3px;
+}
+#login2 {
+	background:#bdc3c7;
+  	height:322px;
+	width:830px;
+	border:medium none;
+	margin:0 auto;
+	margin-top:10px;
+	position:relative;
+	text-align:left;
+	voice-family:inherit;
+	border-style: solid;
+    border-width: 3px;
+}
+#form {
+	background:#27ae60;
+  	height:22px;
+	width:800px;
+	border:medium none;
+	margin:0 auto;
+	margin-top:10px;
+	position:relative;
+	text-align:center;
+	voice-family:inherit;
+	border-style: solid;
+    border-width: 3px;
+}
+#input{
+	text-align:center;
+	}
+#header {
+	height: auto;
+	width: 100%; 
+	clear: both;
+	}
+#padding{
+	margin-right:50px;
+	margin-top:90px;
+	text-decoration:none;
+	color:#000000;
+	}
+#hover:hover{
+    color:white;
+    text-decoration:none;
+	}
+#hover{
+	color:green;
+    text-decoration:none;
+	}
+#paddinglogin{
+	margin-top:-10px;
+	}
+#paddingcopyright{
+	margin-right:20px;
+	margin-top:-20px;
+	}
+#paddinghr{
+	margin-top:0px;
+	}	
+#ukuran{
+	font-size:14px;
+	}
+#lupapassword{
+	text-decoration:none;
+	color:#bdc3c7;
+	font-size:11px;
+	}
+.float li
+{
+float: left;
+list-style: none;
+margin-top:-15px;
+}
+.float li a
+{
+color:#fff;
+text-decoration: none;
+-webkit-transition:all 1s ease-out;
+-moz-transition:all 1s ease-out;
+-ms-transition:all 1s ease-out;
+-o-transition:all 1s ease-out;
+transition:all 1s ease-out;
+}
+
+.float a:hover
+{
+text-decoration: none;
+background:#fff;
+color: #000;
+}
+#margingambar{
+	margin-left:-80px;
+	}
+.myButton {
+	-moz-box-shadow:inset 0px 0px 0px 0px #caefab;
+	-webkit-box-shadow:inset 0px 0px 0px 0px #caefab;
+	box-shadow:inset 0px 0px 0px 0px #caefab;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ecc70), color-stop(1, #2ecc70));
+	background:-moz-linear-gradient(top, #2ecc70 5%, #2ecc70 100%);
+	background:-webkit-linear-gradient(top, #2ecc70 5%, #2ecc70 100%);
+	background:-o-linear-gradient(top, #2ecc70 5%, #2ecc70 100%);
+	background:-ms-linear-gradient(top, #2ecc70 5%, #2ecc70 100%);
+	background:linear-gradient(to bottom, #2ecc70 5%, #2ecc70 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2ecc70', endColorstr='#2ecc70',GradientType=0);
+	background-color:#2ecc70;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #268a16;
+	display:inline-block;
+	cursor:pointer;
+	color:#3060f81;
+	font-family:Georgia;
+	font-size:10px;
+	font-weight:bold;
+	padding:4px 8px;
+	text-decoration:none;
+	text-shadow:0px 0px 0px #aade7c;
+}
+.myButton:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #2ecc70), color-stop(1, #2ecc70));
+	background:-moz-linear-gradient(top, #2ecc70 5%, #2ecc70 100%);
+	background:-webkit-linear-gradient(top, #2ecc70 5%, #2ecc70 100%);
+	background:-o-linear-gradient(top, #2ecc70 5%, #2ecc70 100%);
+	background:-ms-linear-gradient(top, #2ecc70 5%, #2ecc70 100%);
+	background:linear-gradient(to bottom, #2ecc70 5%, #2ecc70 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#2ecc70', endColorstr='#2ecc70',GradientType=0);
+	background-color:#2ecc70;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+	.demo select {
+		border: 0 !important;  /*Removes border*/
+		-webkit-appearance: none;  /*Removes default chrome and safari style*/
+		-moz-appearance: none; /* Removes Default Firefox style*/
+		background: #2ecc70 url(../Gambar/icon_down.png) no-repeat 90% center;
+		background-size: 18px;
+		width: 100px; /*Width of select dropdown to give space for arrow image*/
+		text-indent: 0.01px; /* Removes default arrow from firefox*/
+		text-overflow: "";  /*Removes default arrow from firefox*/ /*My custom style for fonts*/
+		color: #000;
+		border-radius: 15px;
+		padding: 5px;
+	}
+	.demo select.balck {
+		background-color: #000;
+	}
+	.demo select.option3 {
+		border-radius: 10px 0;
+	}
